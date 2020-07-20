@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Yiping Jin's home page"
+title                    : "Yiping Jin"
 title_separator          : "-"
 name                     : &name "Yiping Jin"
 description              : &description "Senior Research Scientist (NLP) at Knorex"
