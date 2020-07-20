@@ -9,11 +9,4 @@ location: "Bangkok, Thailand"
 ---
 
 Design and conduct lab sessions on various topics on machine learning.
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
