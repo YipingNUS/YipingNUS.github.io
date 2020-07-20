@@ -29,7 +29,7 @@ Work experience
 * Jan 2014 - June 2015: Research Engineer
   * Baidu-I2R Research Centre, A-STAR
   * Research into NLP and information extraction topics.
-  * Supervisor: Dr. Su Jian
+  * Supervisor: Dr. [Su Jian](http://www.colips.org/~sujian/)
   
 * Nov 2012 - Dec 2013: Research Assistant
   * Developed spatio-temporal data mining and visualization tools.

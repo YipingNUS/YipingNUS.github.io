@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I work as a senior research scientist at [Knorex](https://www.knorex.com/) (Singapore) since Sep 2015. My research focus is on the intersection between natural language processing and computational advertising. I'm currently pursuing my Ph.D at Chulalongkorn University. I received my B.COMP (1st Class Honours) from National University of Singapore and M.S from Chulalongkorn University.
+I work as a senior research scientist at [Knorex](https://www.knorex.com/) (Singapore) since Sep 2015. My research focus is on the intersection between natural language processing and computational advertising. I'm currently pursuing my Ph.D at Chulalongkorn University. I received my B.COMP (1st Class Honours) from National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html))  and M.S from Chulalongkorn University.
 
 Research Interests
 ======
