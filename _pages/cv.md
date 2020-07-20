@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download full CV here](https://yipingnus.github.io/files/CV.pdf)
+
 Education
 ======
 * B.COMP. (1st Class Honours) in Computer Science, National University of Singapore, 2013
