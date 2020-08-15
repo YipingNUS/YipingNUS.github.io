@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I work as a senior research scientist at [Knorex](https://www.knorex.com/) (Singapore) since Sep 2015. My research focus is the applications of natural language processing to the domain of computational advertising. Prior to joining Knorex, I conducted research into NLP at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/). 
+**NEWS:** we're hiring [machine learning engineers](https://apply.workable.com/knorex/j/E0E929AB49) and [data science interns](https://apply.workable.com/knorex/j/ECD0F25440) in HCMC and BKK. You can either apply via the link directly or drop me an email with your CV.
+
+I work as a senior research scientist and technical manager at [Knorex](https://www.knorex.com/) since Sep 2015. My research focus is the applications of natural language processing to the domain of computational advertising. Prior to joining Knorex, I conducted research into NLP at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/). 
 
 I'm currently pursuing my Ph.D at Chulalongkorn University. I received my B.COMP (1st Class Honours) from National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html))  and M.S from Chulalongkorn University (advised by Asst. Prof. [Dittaya Wanvarie](http://pioneer.netserv.chula.ac.th/~wdittaya/)).
 
