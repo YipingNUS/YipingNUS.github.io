@@ -19,14 +19,13 @@ Education
 
 Work experience
 ======
-* Sep 2015 - Now: Senior Research Scientist (NLP)
+* Sep 2015 - Now: Senior Research Scientist
   * Knorex Pte. Ltd. (Singapore)
-  * Aiming to build up frst-class R&D team in South East Asia.
   * Lead of NLP team.
   * Interim lead of data science team (April 2017 - Oct 2018).
   * Research into NLP for online advertising.
   * Deliver research grant projects.
-  * Play a crucial role to build up the company's intellectual property prole.
+  * Play a crucial role to build up the company's IP portfolio.
 
 * Jan 2014 - June 2015: Research Engineer
   * Baidu-I2R Research Centre, A-STAR
