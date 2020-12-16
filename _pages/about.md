@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS:** we're hiring [machine learning engineers](https://apply.workable.com/knorex/j/E0E929AB49) and [data science interns](https://apply.workable.com/knorex/j/ECD0F25440) in HCMC and BKK. You can either apply via the link directly or drop me an email with your CV.
+**NEWS:** we're hiring [data science interns](https://apply.workable.com/knorex/j/ECD0F25440) in HCMC and BKK. You can either apply via the link directly or drop me an email with your CV.
 
 I work as a senior research scientist at [Knorex](https://www.knorex.com/) since Sep 2015. My research focus is the applications of natural language processing to the domain of computational advertising. Prior to joining Knorex, I conducted research into NLP at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/). 
 
