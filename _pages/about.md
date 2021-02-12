@@ -19,6 +19,6 @@ I'm no longer using any social media (e.g. LinkedIn, Facebook). If you want to r
 Research Interests
 ======
 
-I'm broadly interested in the applications of natural language processing. My current focus is dataless classification (aka. lightly-supervised learning, zero-shot learning, semi-supervised learning) where we induce classifiers without any labelled document ([Jin et. al. 2017](https://www.aclweb.org/anthology/I17-1055.pdf), [Charoenphakdee et. al. 2019](https://www.aclweb.org/anthology/D19-1411.pdf), [Jin et. al. 2020](https://yipingnus.github.io/publication/2020-10-18-paper-title-number-5)). 
+I'm broadly interested in the applications of natural language processing. My current focus is dataless classification (aka. lightly-supervised learning, zero-shot learning, semi-supervised learning) where we induce classifiers without any labelled document ([Jin et al. 2017](https://www.aclweb.org/anthology/I17-1055.pdf), [Charoenphakdee et al. 2019](https://www.aclweb.org/anthology/D19-1411.pdf), [Jin et al. 2020](https://yipingnus.github.io/publication/2020-10-18-paper-title-number-5)). 
 
-I also started working on natural language generation for online advertising recently.
+I also started working on natural language generation for online advertising recently. Our first work is on generating slogans with seq2seq transformers ([Jin et al. 2021](https://arxiv.org/abs/2102.05924))
