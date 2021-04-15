@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Sep 2015 - Now: Senior Research Scientist
+* Sep 2015 - Now: Staff Research Scientist
   * Knorex Pte. Ltd. (Singapore)
   * Lead of NLP team.
   * Interim lead of data science team (April 2017 - Oct 2018).
