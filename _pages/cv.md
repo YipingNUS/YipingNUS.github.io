@@ -35,3 +35,8 @@ Work experience
 * Nov 2012 - Dec 2013: Research Assistant
   * Developed spatio-temporal data mining and visualization tools.
   * Developed cloud-based medical image system using Ruby on Rails.
+
+Professional service
+======
+* Member of Program Committees:
+  * EMNLP 2021
