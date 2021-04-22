@@ -10,11 +10,11 @@ redirect_from:
 
 **NEWS:** we're hiring researchers (NLP/data science/ML engineering) and multiple interns in HCMC, BKK or Pune. You can drop me an email with your CV if you're interested.
 
-I work as a staff research scientist at [Knorex](https://www.knorex.com/) since Sep 2015. My research focus is the applications of natural language processing to the domain of computational advertising. Prior to joining Knorex, I conducted research into NLP at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/). 
+I work as a staff research scientist at [Knorex](https://www.knorex.com/) since Sep 2015. My research interests include weakly-supervised text classification, language generation, and information extraction. Prior to joining Knorex, I conducted research into NLP at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/). 
 
 I'm currently pursuing my Ph.D at Chulalongkorn University. I received my B.COMP (1st Class Honours) from National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html))  and M.S from Chulalongkorn University (working with Asst. Prof. [Dittaya Wanvarie](http://pioneer.netserv.chula.ac.th/~wdittaya/)).
 
-I'm no longer using any social media (e.g. LinkedIn, Facebook). If you want to reach out to me, please drop me an email.
+Please feel free to contact me about any synergies between your research interests and mine. I'm no longer using any social media. If you want to reach out to me, please drop me an email.
 
 Research Interests
 ======
