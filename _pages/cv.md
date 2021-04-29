@@ -15,17 +15,17 @@ Education
 ======
 * B.COMP. (1st Class Honours) in Computer Science, National University of Singapore, 2013
 * M.S. in Computer Science, Chulalongkorn University, 2018
-* Ph.D in Computer Science, Chulalongkorn University, 2021 (expected)
+* Ph.D in Computer Science, Chulalongkorn University, 2022 (expected)
 
 Work experience
 ======
 * Sep 2015 - Now: Staff Research Scientist
   * Knorex Pte. Ltd. (Singapore)
-  * Lead of NLP team.
-  * Interim lead of data science team (April 2017 - Oct 2018).
-  * Research into NLP for online advertising.
-  * Deliver research grant projects.
-  * Play a crucial role to build up the company's IP portfolio.
+  * Research into NLP.
+  * Plan AI strategy and advise team members.
+  * Deliver research grant projects and build up IP portfolio.
+  * Lead of NLP team (Jan 2018 - Feb 2021).
+  * Founding manager of data science team (April 2017 - Oct 2018).
 
 * Jan 2014 - June 2015: Research Engineer
   * Baidu-I2R Research Centre, A-STAR
@@ -33,8 +33,9 @@ Work experience
   * Supervisor: Dr. [Su Jian](http://www.colips.org/~sujian/)
   
 * Nov 2012 - Dec 2013: Research Assistant
-  * Developed spatio-temporal data mining and visualization tools.
-  * Developed cloud-based medical image system using Ruby on Rails.
+  * School of Computing, National University of Singapore
+  * Developed spatio-temporal data mining and visualization tool.
+  * Developed cloud-based medical image system.
 
 Professional service
 ======
