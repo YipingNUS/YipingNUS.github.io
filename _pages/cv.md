@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Sep 2015 - Now: Staff Research Scientist
+* Sep 2015 - Now: Head of R\&D
   * Knorex Pte. Ltd. (Singapore)
   * Research into NLP.
   * Plan AI strategy and advise team members.
