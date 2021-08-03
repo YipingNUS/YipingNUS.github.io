@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS:** I'm hiring NLP researchers, data scientists, ML engineers and interns in SG, HCMC, BKK or Pune. You can drop me an email with your CV if you're interested.
+**NEWS:** I'm hiring NLP researchers, data scientists, ML engineers, software engineers and interns in SG, HCMC, BKK, Pune or KL. You can drop me an email with your CV if you're interested.
 
 I work as the head of R\&D at [Knorex](https://www.knorex.com/). My research interests include weakly-supervised text classification, language generation, and information extraction. Prior to joining Knorex, I conducted research into NLP at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/). 
 
