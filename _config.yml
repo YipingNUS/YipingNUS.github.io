@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiping Jin"
 title_separator          : "-"
 name                     : &name "Yiping Jin"
-description              : &description "Staff Research Scientist (NLP) at Knorex"
+description              : &description "Head of R&D at Knorex"
 url                      : https://yipingnus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YipingNUS/YipingNUS.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiping Jin"
   avatar           : "profile.jpg"
-  bio              : "Staff Research Scientist (NLP)"
+  bio              : "Head of R&D"
   location         :
   employer         : "Knorex"
   pubmed           : 
