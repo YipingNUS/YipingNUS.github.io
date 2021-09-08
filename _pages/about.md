@@ -10,9 +10,9 @@ redirect_from:
 
 **NEWS:** I'm hiring NLP researchers, data scientists, ML engineers, software engineers and interns in SG, HCMC, BKK, Pune or KL. You can drop me an email with your CV if you're interested.
 
-I work as the head of R&D at [Knorex](https://www.knorex.com/). My research interests include weakly-supervised text classification, language generation, and information extraction. Prior to joining Knorex, I conducted research into NLP at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/). 
+I work as the head of R&D at [Knorex](https://www.knorex.com/) since 2015. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as an NLP researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/). 
 
-I received my B.COMP (1st Class Honours) from National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html))  and M.S from Chulalongkorn University.
+I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S from Chulalongkorn University. I expect to defend my PhD dissertation in early 2022.
 
 Please feel free to contact me about any synergies between your research interests and mine. I'm no longer using any social media. If you want to reach out to me, please drop me an email.
 
