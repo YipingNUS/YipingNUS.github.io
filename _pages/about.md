@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS:** Our manuscript on [slogan generation](https://yipingnus.github.io/files/nle2021.pdf) was accepted to Natural Language Engineering journal!
+**NEWS:** I'm hiring NLP researchers, data scientists, ML engineers, and interns in SG, HCMC, KL, BKK, or Pune. You can drop me an email with your CV if you're interested.
 
-**NEWS:** I'm hiring NLP researchers, data scientists, ML engineers, software engineers and interns in SG, HCMC, or Pune. You can drop me an email with your CV if you're interested.
-
-I work at [Knorex](https://www.knorex.com/) since 2015 and I'm currently holding the position of Head of R&D. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
+I work at [Knorex](https://www.knorex.com/) since 2015 and I'm currently the head of the R&D department. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
 
 I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S from Chulalongkorn University. I expect to defend my PhD dissertation in early 2022.
 
