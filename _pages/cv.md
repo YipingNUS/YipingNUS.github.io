@@ -39,5 +39,6 @@ Work experience
 
 Professional service
 ======
-* Member of Program Committees:
+* Reviewer:
   * EMNLP 2021
+  * ACL Rolling Review, since January 2022
