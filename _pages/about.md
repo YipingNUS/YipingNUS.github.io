@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS:** I'm hiring NLP researchers, data scientists, ML engineers, and interns in SG, HCMC, or Pune. You can drop me an email with your CV if you're interested.
+**NEWS:** I'm relocating to Belgrade, Serbia. I'm keen keen to connect with the local NLP/ML community there. Feel free to drop me an email to schedule a coffee together.
+
+**NEWS:** I'm hiring data scientists, NLP researchers, ML engineers, Java software engineers, and interns in HCMC and Pune. You can drop me an email with your CV if you're interested.
 
 I work at [Knorex](https://www.knorex.com/) since 2015 and I'm currently the head of the R&D department. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
 
@@ -21,4 +23,4 @@ Research Interests
 
 I'm broadly interested in the applications of natural language processing. My current focus is weakly-supervised text classification (aka. dataless classification) where we induce classifiers without any manually-labelled document ([Jin et al. 2017](https://www.aclweb.org/anthology/I17-1055.pdf), [Charoenphakdee et al. 2019](https://www.aclweb.org/anthology/D19-1411.pdf), [Jin et al. 2020](https://yipingnus.github.io/publication/2020-10-18-paper-title-number-5), [Jin et al. 2021a](https://arxiv.org/abs/2104.09765), [Jin et al. 2021b](https://arxiv.org/abs/2102.06429)). 
 
-I also work on natural language generation for online advertising since recently ([Jin et al. 2021](https://yipingnus.github.io/files/nle2021.pdf)).
+I'm also keen on natural language generation, especially controlling the topic, style, and content of generated texts without additional supervision ([Jin and Le, 2016](https://aclanthology.org/W16-6623.pdf), [Jin et al. 2021](https://yipingnus.github.io/files/nle2021.pdf)).
