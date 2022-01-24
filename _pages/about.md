@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS:** I'm relocating to Belgrade, Serbia. I'm keen keen to connect with the local NLP/ML community there. Feel free to drop me an email to schedule a coffee together.
-
 **NEWS:** I'm hiring data scientists, NLP researchers, ML engineers, Java software engineers, and interns in HCMC and Pune. You can drop me an email with your CV if you're interested.
+
+**NEWS:** I'm relocating to Belgrade, Serbia. I'm keen to connect with the local NLP/ML community there. Feel free to drop me an email to schedule a coffee (or a Zoom call) together.
 
 I work at [Knorex](https://www.knorex.com/) since 2015 and I'm currently the head of the R&D department. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
 
