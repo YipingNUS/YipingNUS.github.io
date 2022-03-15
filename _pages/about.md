@@ -14,7 +14,7 @@ redirect_from:
 
 I work at [Knorex](https://www.knorex.com/) since 2015 and I'm currently the head of the R&D department. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
 
-I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S from Chulalongkorn University. I expect to defend my PhD dissertation in early 2022.
+I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S & Ph.D from Chulalongkorn University.
 
 Please feel free to contact me about any synergies between your research interests and mine. I'm no longer using any social media. If you want to reach out to me, please drop me an email.
 
