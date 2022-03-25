@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS:** I'm hiring lead data scientists (DL/ML/NLP) in Vietnam, India, Malaysia, or Singapore with a strong research and management background. You can drop me an email with your CV if you're interested.
-
-**NEWS:** I'm hiring an NLP researchers in Vietnam, India, Malaysia, or Singapore. [[APPLY HERE]](https://apply.workable.com/knorex/j/52FC2B0C3C/) (Pls indicate the location you're applying. Appologize we only consider local candidates to the corresponding countries.)
+**NEWS:** I'm hiring a [technical manager (data science)](https://apply.workable.com/knorex/j/74DADAA1DD) and several [MLOps engineers](https://apply.workable.com/knorex/j/A61561C5C0/) in Vietnam, India, Malaysia, or Singapore. You can drop me an email with your CV if you're interested.
 
 I work at [Knorex](https://www.knorex.com/) since 2015 and I'm currently the head of the R&D department. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
 
