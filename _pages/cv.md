@@ -41,4 +41,5 @@ Professional service
 ======
 * Reviewer:
   * EMNLP 2021
-  * ACL Rolling Review, since January 2022
+  * ACL Rolling Review: January 2022
+  * NLPCC 2022
