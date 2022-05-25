@@ -15,7 +15,7 @@ Education
 ======
 * B.COMP. (1st Class Honours) in Computer Science, National University of Singapore, 2013
 * M.S. in Computer Science, Chulalongkorn University, 2018
-* Ph.D in Computer Science, Chulalongkorn University, 2022 (expected)
+* Ph.D in Computer Science, Chulalongkorn University, 2022
 
 Work experience
 ======
@@ -24,8 +24,8 @@ Work experience
   * Research into NLP.
   * Plan AI strategy and advise team members.
   * Deliver research grant projects and build up IP portfolio.
-  * Lead of NLP team (Jan 2018 - Feb 2021).
-  * Founding manager of data science team (April 2017 - Oct 2018).
+  * Lead of NLP team (Jan 2018 - now).
+  * Founder and interim lead of data science team.
 
 * Jan 2014 - June 2015: Research Engineer
   * Baidu-I2R Research Centre, A-STAR
