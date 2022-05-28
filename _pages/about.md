@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS:** I'm hiring a [technical manager (data science)](https://apply.workable.com/knorex/j/74DADAA1DD) in Vietnam, India, Malaysia, or Singapore. You can drop me an email with your CV if you're interested.
-
-I work at [Knorex](https://www.knorex.com/) since 2015 and I'm currently the head of the R&D department. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
+I worked as Head of R&D at [Knorex](https://www.knorex.com/) from 2015 till 2021. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
 
 I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S & Ph.D from Chulalongkorn University.
 
