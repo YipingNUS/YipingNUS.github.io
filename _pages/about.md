@@ -19,4 +19,4 @@ Research Interests
 
 I'm broadly interested in the applications of natural language processing. My current focus is weakly-supervised text classification (aka. dataless classification) where we induce classifiers without any manually-labelled document ([Jin et al. 2017](https://aclanthology.org/I17-1055/), [Charoenphakdee et al. 2019](https://aclanthology.org/D19-1411/), [Jin et al. 2020](https://doi.org/10.1017/S1351324920000340), [Jin et al. 2021a](https://aclanthology.org/2021.naacl-srw.14/), [Jin et al. 2021b](https://aclanthology.org/2021.textgraphs-1.1/)). 
 
-I'm also keen on natural language generation, especially controlling the topic, style, and content of generated texts without additional supervision ([Jin and Le, 2016](https://aclanthology.org/W16-6623/), [Jin et al. 2021](https://yipingnus.github.io/files/nle2021.pdf)).
+I'm also keen on natural language generation, especially controlling the topic, style, and content of generated texts without additional supervision ([Jin and Le, 2016](https://aclanthology.org/W16-6623/), [Jin et al. 2021](https://yipingnus.github.io/files/nle2021.pdf), [Jin et al. 2022](https://arxiv.org/abs/2206.03021)).
