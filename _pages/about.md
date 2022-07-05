@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I worked as Head of R&D at [Knorex](https://www.knorex.com/) from 2015 till 2021. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
+**News:** [Knorex](https://www.knorex.com/) is hiring a Lead Data Scientist. The candidate must have prior experience in AdTech and possess a strong hands-on knowledge in ML/DL. We offer a competitive package and flexible work location. Please drop me an email with your CV if you're interested.
+
+I worked as Head of R&D at [Knorex](https://www.knorex.com/) since 2015. My research interests include information retrieval, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
 
 I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S & Ph.D from Chulalongkorn University.
 
