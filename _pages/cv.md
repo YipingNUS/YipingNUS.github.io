@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+* Oct 2022 - NOW: Visiting Researcher
+  * Pompeu Fabra University (Spain)
+  * Research into hate speech detection.
+
 * Sep 2015 - Dec 2021: Head of R&D
   * Knorex Pte. Ltd. (Singapore)
   * Research into NLP.
