@@ -19,7 +19,12 @@ Education
 
 Work experience
 ======
-* Sep 2015 - NOW: Staff Research Scientist
+* Oct 2022 - NOW: Visiting Postdoc Researcher
+  * Universitat Pompeu Fabra (Barcelona)
+  * Research into hate speech detection
+  * Supervisor: Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324)
+
+* Sep 2015 - Apr 2022: Staff Research Scientist
   * Knorex Pte. Ltd. (Singapore)
   * Research into NLP.
   * Plan AI strategy and advise team members.
