@@ -45,7 +45,8 @@ Work experience
 Professional service
 ======
 * Reviewer:
-  * EMNLP 2021, 2022
+  * EMNLP 2021, 2022, 2023
   * ACL Rolling Review: Since January 2022
   * NLPCC 2022
   * ACL 2023
+  * Natural Language Engineering journal: Since 2023
