@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**[NEWS]** I'm hiring several [Data Scientists](https://apply.workable.com/knorex/j/FA5965C8D8/) and [MLOps Engineers](https://apply.workable.com/knorex/j/AEBAD02705/) working on computational advertising/real-time bidding models and pipelines. All positions are hybrid and based in HCMC, Vietnam or Pune, India. Please drop me an email at jinyiping [dot] knorex.com if you are interested.
+**[NEWS]** Our paper on using analogical reasoning to reduce data annotation effort was presented recently at ACL 2024. Check out the manuscript [HERE](https://aclanthology.org/2024.acl-long.574/).
 
-I'm currently working as a visiting postdoc at [Universitat Pompeu Fabra](https://www.upf.edu/), supervised by Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324). My current research focus is hate speech detection. 
+I'm currently working as a visiting postdoc at [Universitat Pompeu Fabra](https://www.upf.edu/), supervised by Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324). My current research focus is hate speech detection and human-centered NLP. 
 
-I worked as Staff Research Scientist/Head of R\&D at [Knorex](https://www.knorex.com/) from 2015 till 2022. My research topics include weakly-supervised learning methods, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
+I worked as Head of R&D at [Knorex](https://www.knorex.com/) from 2015 till 2022. My research topics include weakly-supervised learning methods, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/) mainly on information extraction projects. 
 
-I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S & Ph.D from Chulalongkorn University.
+I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S & Ph.D from Chulalongkorn University (working with Asst. Prof. [Dittaya Wanvarie](http://pioneer.netserv.chula.ac.th/~wdittaya/)).
 
 Please feel free to contact me about any synergies between your research interests and mine. I'm no longer using any social media. If you want to reach out to me, please drop me an email.
 
