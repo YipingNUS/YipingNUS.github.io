@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+**[NEWS]** I'm relocating to Santiago, Chile and I'm actively looking for a researcher position there (industry/academia). Drop me an email for potential collaboration opportunities.
+
+**[NEWS]** Our paper [Disentangling Hate Across Target Identities](https://arxiv.org/abs/2410.10332) was accepted to NAACL 2025 main conference.
 
 I'm currently working as a visiting postdoc at [Universitat Pompeu Fabra](https://www.upf.edu/), supervised by Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324). My current research focus is hate speech detection and human-centered NLP. 
 
-I worked as Head of R&D at [Knorex](https://www.knorex.com/) from 2015 to 2022. My research topics include weakly-supervised learning methods, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/), mainly on information extraction projects. 
+I work as Staff Research Scientist/Senior R&D Advisor at [Knorex](https://www.knorex.com/) since 2015. My research topics include weakly-supervised learning methods, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/), mainly on information extraction projects. 
 
 I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S & Ph.D from Chulalongkorn University (working with Asst. Prof. [Dittaya Wanvarie](http://pioneer.netserv.chula.ac.th/~wdittaya/)).
 

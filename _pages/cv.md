@@ -24,8 +24,8 @@ Work experience
   * Research into hate speech detection
   * Supervisor: Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324)
 
-* Sep 2015 - Dec 2022: Staff Research Scientist
-  * Knorex Pte. Ltd. (Singapore)
+* Sep 2015 - NOW: Staff Research Scientist/Senior R&D Advisor
+  * Knorex Pte. Ltd. (Singapore/Remote)
   * Research into NLP.
   * Plan AI strategy and advise team members.
   * Deliver research grant projects and build up IP portfolio.
@@ -50,3 +50,4 @@ Professional service
   * NLPCC 2022
   * ACL 2023
   * Natural Language Engineering journal: Since 2023
+  * PeerJ Computer Science journal: Since February 2025
