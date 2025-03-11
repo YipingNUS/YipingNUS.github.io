@@ -51,3 +51,7 @@ Professional service
   * ACL 2023
   * Natural Language Engineering journal: Since 2023
   * PeerJ Computer Science journal: Since February 2025
+
+Talks
+======
+* 14 March 2025: [Disentangling Biases in LLMs for Hate Speech Detection](https://yipingnus.github.io/files/bsc-talk.pdf) @ Barcelona Supercomputer Centre.
