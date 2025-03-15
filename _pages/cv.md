@@ -54,4 +54,4 @@ Professional service
 
 Talks
 ======
-* 14 March 2025: [Disentangling Biases in LLMs for Hate Speech Detection](https://yipingnus.github.io/files/bsc-talk.pdf) @ Barcelona Supercomputer Centre.
+* 14 March 2025: [Disentangling Biases in LLMs for Hate Speech Detection](https://yipingnus.github.io/files/bsc-talk.pdf) @ Barcelona Supercomputing Center - Centro Nacional de Supercomputación.

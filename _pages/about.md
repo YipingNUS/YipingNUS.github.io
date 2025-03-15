@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**[NEWS]** I'm relocating to Santiago, Chile and I'm actively looking for a researcher position there (industry/academia). Drop me an email for potential collaboration opportunities.
-
 **[NEWS]** Our paper [Disentangling Hate Across Target Identities](https://arxiv.org/abs/2410.10332) was accepted to NAACL 2025 main conference.
 
 I'm currently working as a visiting postdoc at [Universitat Pompeu Fabra](https://www.upf.edu/), supervised by Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324). My current research focus is hate speech detection and human-centered NLP. 
