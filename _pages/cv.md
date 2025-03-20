@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Oct 2022 - NOW: Visiting Postdoc Researcher
+* Oct 2022 - Mar 2025: Visiting Postdoc Researcher
   * Universitat Pompeu Fabra (Barcelona)
   * Research into hate speech detection
   * Supervisor: Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324)
@@ -46,7 +46,7 @@ Professional service
 ======
 * Reviewer:
   * EMNLP 2021, 2022, 2023
-  * ACL Rolling Review: Since January 2022
+  * ACL Rolling Review: January 2022 till Dec 2025
   * NLPCC 2022
   * ACL 2023
   * Natural Language Engineering journal: Since 2023

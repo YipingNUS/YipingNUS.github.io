@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+**[NEWS]** I'm relocating to Santiago de Chile to join [Topsort](https://www.topsort.com/) as a senior data scientist to work on auction and AI-based monetization technology for the e-commerce ecosystem. Thus, I'll leave NLP research and stop maintaining this site. 
+
 **[NEWS]** Our paper [Disentangling Hate Across Target Identities](https://arxiv.org/abs/2410.10332) was accepted to NAACL 2025 main conference.
 
-I'm currently working as a visiting postdoc at [Universitat Pompeu Fabra](https://www.upf.edu/), supervised by Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324). My current research focus is hate speech detection and human-centered NLP. 
+In academia, I worked as a visiting postdoc at [Universitat Pompeu Fabra](https://www.upf.edu/) from Oct 2022 till March 2025, supervised by Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324). My research focus was the evaluation and biases in hate speech detection. 
 
-I work as Staff Research Scientist/Senior R&D Advisor at [Knorex](https://www.knorex.com/) since 2015. My research topics include weakly-supervised learning methods, text mining, and natural language generation. Prior to joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under the supervision of Dr. [Su Jian](http://www.colips.org/~sujian/), mainly on information extraction projects. 
+I worked as a Staff Research Scientist/Senior R&D Advisor at [Knorex](https://www.knorex.com/) from 2015 till 2025. My research topics include weakly-supervised learning methods, text mining, and natural language generation. Before joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under Dr. [Su Jian](http://www.colips.org/~sujian/), mainly on information extraction projects. 
 
-I received B.COMP (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S & Ph.D from Chulalongkorn University (working with Asst. Prof. [Dittaya Wanvarie](http://pioneer.netserv.chula.ac.th/~wdittaya/)).
+I received Bachelor of Computer Science (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S & Ph.D from Chulalongkorn University (working with Asst. Prof. [Dittaya Wanvarie](http://pioneer.netserv.chula.ac.th/~wdittaya/); received summa cum laude for Ph.D. thesis).
 
-Please contact me about any synergies between your research interests and mine. I'm no longer using any social media. If you want to reach out to me, please drop me an email.
+If you want to reach out to me, please drop me an email or write to me on LinkedIn.
 
 Research Interests
 ======
 
-My current research focus is detecting hate speech across domains ([Jin et al. 2023](https://aclanthology.org/2023.woah-1.4/)), functionalities ([Jin et al. 2024](https://aclanthology.org/2024.lrec-main.694/)), target identities ([Jin et al. 2024](http://arxiv.org/abs/2410.10332)), and ultimately individual persons. Hate speech detection is a highly subjective task, where a universalism approach may harm the vulnerable groups we want to project. I'm thrilled to investigate how we can model individuals' or groups' perspectives to the task.
+My research focus is detecting hate speech across domains ([Jin et al. 2023](https://aclanthology.org/2023.woah-1.4/)), functionalities ([Jin et al. 2024](https://aclanthology.org/2024.lrec-main.694/)), target identities ([Jin et al. 2024](http://arxiv.org/abs/2410.10332)), and ultimately individual persons. Hate speech detection is a highly subjective task, where a universalism approach may harm the vulnerable groups we want to project. I'm thrilled to investigate how we can model individuals' or groups' perspectives to the task.
 
 I'm broadly interested in the applications of natural language processing. The focus of my PhD thesis is weakly-supervised text classification (aka. dataless classification) where we induce classifiers without any manually labeled document ([Jin et al. 2017](https://aclanthology.org/I17-1055/), [Charoenphakdee et al. 2019](https://aclanthology.org/D19-1411/), [Jin et al. 2020](https://doi.org/10.1017/S1351324920000340), [Jin et al. 2021a](https://aclanthology.org/2021.naacl-srw.14/), [Jin et al. 2021b](https://aclanthology.org/2021.textgraphs-1.1/)). 
 
