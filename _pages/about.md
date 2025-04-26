@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**[NEWS]** I'm moving to Santiago de Chile to join [Topsort](https://www.topsort.com/) as a senior data scientist, working on ad auction and AI-based monetization technologies. Thus, I'll leave NLP research and stop maintaining this site.
-
 **[NEWS]** Our paper [Disentangling Hate Across Target Identities](https://arxiv.org/abs/2410.10332) was accepted to NAACL 2025 main conference.
 
 In academia, I worked as a visiting postdoc at [Universitat Pompeu Fabra](https://www.upf.edu/) from Oct 2022 till March 2025, supervised by Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324). My research focus was the evaluation and biases in hate speech detection. 
 
-I worked as a Staff Research Scientist/Senior R&D Advisor at [Knorex](https://www.knorex.com/) from 2015 until 2025. My research topics include weakly supervised learning methods, text mining, and natural language generation. Before joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under Dr. [Su Jian](http://www.colips.org/~sujian/), mainly on information extraction projects. 
+In industry, I worked as a Staff Research Scientist/Senior R&D Advisor at [Knorex](https://www.knorex.com/) from 2015 until 2025. My research topics include weakly supervised learning methods, text mining, and natural language generation. Before joining Knorex, I worked as a researcher at Baidu-I2R Research Centre under Dr. [Su Jian](http://www.colips.org/~sujian/), mainly on information extraction projects. 
 
 I received Bachelor of Computer Science (1st Class Honours) from the National University of Singapore (supervised by Associate Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html)) and M.S & Ph.D from Chulalongkorn University (working with Asst. Prof. [Dittaya Wanvarie](http://pioneer.netserv.chula.ac.th/~wdittaya/); received summa cum laude for Ph.D. thesis).
 
