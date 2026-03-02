@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**[NEWS]** Our paper [Disentangling Hate Across Target Identities](https://arxiv.org/abs/2410.10332) was accepted to NAACL 2025 main conference.
+**[NEWS]** I left academia in May 2025 to join [Topsort](https://www.topsort.com/) as a senior data scientist. I will no longer maintain this site.
 
 In academia, I worked as a visiting postdoc at [Universitat Pompeu Fabra](https://www.upf.edu/) from Oct 2022 till March 2025, supervised by Prof. [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324). My research focus was the evaluation and biases in hate speech detection. 
 
